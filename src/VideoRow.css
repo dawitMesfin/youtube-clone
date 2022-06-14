@@ -1,0 +1,32 @@
+.video-row{
+    display: flex;
+    align-items: center;
+    margin-left: 5%;
+    margin-bottom: 14px;
+    max-width: 700px;
+
+}
+.video-row>img{
+    object-fit: contain;
+    width: 246px;
+    height: 138px;
+}
+.video-texts{
+   
+    margin-left: 2%;
+}
+.video-texts>p{
+    color: #606060;
+    font-size: 14px;
+    margin-top: 20px;
+}
+.video-texts-avater{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.video-texts-avater>p{
+    margin-left: 3%;
+    color: #606060;
+    font-size: 14px;
+}
